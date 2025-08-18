@@ -3,7 +3,7 @@
   <img src="https://github.com/NingJjwo/NingJjwo/blob/main/girl.png" alt="name" width="100%">
 </div>
 
-<p align="center" style="font-size: 20px;"><em>Computer Science Student</em></p>
+<p align="center" style="font-size: 20%;"><em>Computer Science Student</em></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
