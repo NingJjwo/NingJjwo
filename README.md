@@ -1,7 +1,9 @@
 <div align="center">
   <h2>ようこそ | Welcome</h2>
   <img src="https://github.com/NingJjwo/NingJjwo/blob/main/girl.png" alt="name" width="100%">
-  <p><em>Computer Science Student</em></p>
+  
+### *Computer Science Student*
+
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
