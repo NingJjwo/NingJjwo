@@ -1,6 +1,6 @@
 <div align="center">
   <h2>ようこそ | Welcome | Bienvenido</h2>
-  <img src="https://github.com/NingJjwo/NingJjwo/blob/main/girl.png" alt="name" width="100%">
+  <img src="https://github.com/NingJjwo/NingJjwo/blob/main/girl.png" alt="name" style="width: 60%; max-width: 500px; height: auto;">
 </div>
 
 <p align="center" style="font-size: 20%;"><em>Computer Science Student</em></p>
