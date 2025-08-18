@@ -1,6 +1,7 @@
 <div align="center">
-  <h2>ようこそ | Welcome | Bienvenido</h2>
-  <img src="https://github.com/NingJjwo/NingJjwo/blob/main/backgroundl.png" alt="name" style="width: 60%; max-width: 500px; height: auto;">
+  <h2>ようこそ | Welcome</h2>
+  <img src="https://github.com/NingJjwo/NingJjwo/blob/main/backgroundl.png" alt="name" width="100%" style="object-fit: cover; height: 400px;">
+  <h3 style="font-weight: normal;"><em>Computer Science Student</em></h3>
 </div>
 
 <p align="center" style="font-size: 20%;"><em>Computer Science Student</em></p>
