@@ -1,6 +1,4 @@
-<div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
-  <h2 style="margin: 0;">ようこそ | Welcome</h2>
-  <div style="width: 100%; height: 100%; display: flex; justify-content: center; align-items: center;">
-    <img src="https://github.com/NingJjwo/NingJjwo/blob/main/girl.png" alt="name" style="width: 100%; height: auto; max-height: 100vh; object-fit: cover;">
-  </div>
+<div align="center">
+  <h2>ようこそ | Welcome</h2>
+  <img src="https://github.com/NingJjwo/NingJjwo/blob/main/girl.png" alt="name" width="100%">
 </div>
