@@ -1,6 +1,6 @@
 <div align="center">
   <h2>ようこそ | Welcome | Bienvenido</h2>
-  <p style="font-weight: bold; font-size: 24px;">Currently Learning Next.js, Angular</p>
+  <p style="font-weight: 900; font-size: 24px;">Currently Learning Next.js, Angular</p>
   <img src="https://github.com/NingJjwo/NingJjwo/blob/main/backgroundl.png" 
        alt="Profile Background" 
        style="width: 100%; 
