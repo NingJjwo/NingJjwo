@@ -2,10 +2,10 @@
   <h2>ようこそ | Welcome | Bienvenido</h2>
   <p style="font-size: 30px;">Currently Learning Next.js, Angular</p>
   <br>
-  <p align="center" style="font-size: 50%; color: #00599C; font-family: 'Roboto', Arial, sans-serif; margin-top: 5px; margin-bottom: 8px;">
+  <p style="font-size: 50%; color: #00599C; font-family: 'Roboto', Arial, sans-serif; margin-top: 5px; margin-bottom: 8px;">
   ASK ME ABOUT
 </p>
-<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 12px; margin-top: 0;">
+<p style="display: flex; justify-content: center; align-items: center; gap: 12px; margin-top: 0;">
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/java/java-original.svg" 
        alt="Java" 
        style="width: 48px; height: 48px; border-radius: 4px; transition: transform 0.2s;" 
