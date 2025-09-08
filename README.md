@@ -15,13 +15,14 @@
   <br><br>
 </div>
 <p align="center" style="font-size: 20%;"><em>Computer Science Student</em></p>
-<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 12px; margin-top: 5px; font-size: 40px; font-weight: bold;">
+<p align="center" style="font-size: 18px; font-weight: 900; color: #00599C; font-family: 'Roboto', Arial, sans-serif; margin-top: 5px; margin-bottom: 8px;">
   Ask me about:
-  <br> 
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/java/java-original.svg" alt="Java" width="30" height="30">
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30">
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/python/python-original.svg" alt="Python" width="30" height="30">
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/react/react-original.svg" alt="React" width="30" height="30">
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/spring/spring-original.svg" alt="Spring Boot" width="30" height="30">
+</p>
+<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 12px; margin-top: 0;">
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/java/java-original.svg" alt="Java" style="width: 32px; height: 32px; border-radius: 4px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/cplusplus.svg" alt="C++" style="width: 32px; height: 32px; border-radius: 4px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/python/python-original.svg" alt="Python" style="width: 32px; height: 32px; border-radius: 4px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/react/react-original.svg" alt="React" style="width: 32px; height: 32px; border-radius: 4px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/spring/spring-original.svg" alt="Spring Boot" style="width: 32px; height: 32px; border-radius: 4px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
 </p>
 
