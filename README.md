@@ -15,8 +15,8 @@
   <br><br>
 </div>
 <p align="center" style="font-size: 20%;"><em>Computer Science Student</em></p>
-<p align="center" style="font-size: 24px; font-weight: 900; color: #00599C; font-family: 'Roboto', Arial, sans-serif; margin-top: 5px; margin-bottom: 8px;">
-  ASK ME ABOUT:
+<p align="center" style="font-size: 50%; color: #00599C; font-family: 'Roboto', Arial, sans-serif; margin-top: 5px; margin-bottom: 8px;">
+  ASK ME ABOUT
 </p>
 <p align="center" style="display: flex; justify-content: center; align-items: center; gap: 12px; margin-top: 0;">
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/java/java-original.svg" 
