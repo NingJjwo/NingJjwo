@@ -15,12 +15,12 @@
   <br><br>
 </div>
 <p align="center" style="font-size: 20%;"><em>Computer Science Student</em></p>
-<p align="center">
+<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   Ask me about: 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/java.svg" alt="Java" width="20" height="20">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/cplusplus.svg" alt="C++" width="20" height="20">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" alt="Python" width="20" height="20">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" alt="React" width="20" height="20">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/springboot.svg" alt="Spring Boot" width="20" height="20">
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/java/java-original.svg" alt="Java" width="30" height="30">
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30">
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/python/python-original.svg" alt="Python" width="30" height="30">
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/react/react-original.svg" alt="React" width="30" height="30">
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/spring/spring-original.svg" alt="Spring Boot" width="30" height="30">
 </p>
 
