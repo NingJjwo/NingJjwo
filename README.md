@@ -1,7 +1,7 @@
 <div align="center">
   <h2>ようこそ | Welcome | Bienvenido</h2>
   <br>
-  <p style="font-size: 30px;">Currently Learning Next.js, Angular</p>
+  <p style="font-size: 30px;">Currently Learning Next.js & Angular</p>
   <br>
   <p style="font-size: 50%; color: #00599C; font-family: 'Roboto', Arial, sans-serif; margin-top: 5px; margin-bottom: 8px;">
   ASK ME ABOUT
