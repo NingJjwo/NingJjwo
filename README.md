@@ -33,7 +33,7 @@
        onmouseover="this.style.transform='scale(1.1)'" 
        onmouseout="this.style.transform='scale(1)'">
 </p>
-  <img src="https://github.com/NingJjwo/NingJjwo/blob/main/backgroundl.png" 
+  <img src="https://github.com/NingJjwo/NingJjwo/blob/main/background.png" 
        alt="Profile Background" 
        style="width: 100%; 
               max-width: 1200px; 
