@@ -36,7 +36,7 @@
   <img src="https://github.com/NingJjwo/NingJjwo/blob/main/background.png" 
        alt="Profile Background" 
        style="width: 100%; 
-              max-width: 1200px; 
+              max-width: 900px; 
               height: auto; 
               min-height: 200px; 
               max-height: 500px; 
