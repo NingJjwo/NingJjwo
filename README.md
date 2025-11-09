@@ -33,7 +33,6 @@
        onmouseover="this.style.transform='scale(1.1)'" 
        onmouseout="this.style.transform='scale(1)'">
 </p>
-  <br><br>
 </div>
 <p align="center" style="font-size: 20%;"><em>Computer Science Student</em></p>
 
