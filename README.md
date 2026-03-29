@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>ようこそ | Welcome | Bienvenido</h2>
+  <h2>ようこそ | 어서 오세요 | Welcome | Bienvenido</h2>
   <br>
   <p style="font-size: 30px;">Currently Learning Next.js & Angular</p>
   <br>
