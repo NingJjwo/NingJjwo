@@ -1,10 +1,10 @@
-<h1 align="center">NingJjwo</h1>
+<h1 align="center">ようこそ | Welcome | Bienvenido</h1>
 <h3 align="center">Computer Science Student · Backend & Web Developer · Changwon, South Korea</h3>
 
-- Currently working on: a **Spring Boot REST API** for the K-pop group Dreamcatcher, its **React** documentation portal, and a university **thesis** project (social-service management) built with an **Angular (Nx)** microfrontend
-- Currently deepening: **microfrontends, OAuth2/Keycloak, Spring Boot 4, system design**
-- Ask me about: **Java & Spring Boot, REST API design, React, Angular, TypeScript, PostgreSQL, RMI, Discord bots**
-- Fun fact: I built a full API + docs site for Dreamcatcher, my favorite group
+- Currently building: a **Spring Boot REST API** for the K-pop group Dreamcatcher, its **React** docs portal, and a **thesis** project (social-service management) with an **Angular (Nx)** microfrontend
+- Currently learning: **microfrontends, OAuth2/Keycloak, Spring Boot 4, system design**
+- Ask me about: **Java & Spring Boot, API design, React, Angular, TypeScript, PostgreSQL, RMI, Discord bots**
+- Fun fact: the Dreamcatcher API + docs is a fan project I built from scratch
 
 <h3 align="left">Core Stack & Tools:</h3>
 <p align="left">
