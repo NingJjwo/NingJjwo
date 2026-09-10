@@ -1,109 +1,52 @@
-```text
-                ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-              ▄██████████████████████████████████▄
-            ▄██████████████████████████████████████▄
-           ██████████████████████████████████████████
-           ██████████████████████████████████████████
-           ██████████████████████████████████████████
-           ██████████████████████████████████████████
-           ██████████████████████████████████████████
-            ▀██████████████████████████████████████▀
-              ▀██████████████████████████████████▀
-                ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+<h1 align="center">NingJjwo</h1>
+<h3 align="center">Computer Science Student · Backend & Web Developer · Changwon, South Korea</h3>
 
-   > whoami
-     computer science student · backend developer
+- Currently working on: a **Spring Boot REST API** for the K-pop group Dreamcatcher, its **React** documentation portal, and a university **thesis** project (social-service management) built with an **Angular (Nx)** microfrontend
+- Currently deepening: **microfrontends, OAuth2/Keycloak, Spring Boot 4, system design**
+- Ask me about: **Java & Spring Boot, REST API design, React, Angular, TypeScript, PostgreSQL, RMI, Discord bots**
+- Fun fact: I built a full API + docs site for Dreamcatcher, my favorite group
 
-   > ./dreamcatcher --api --docs
-     [OK] system online · 2049
-```
+<h3 align="left">Core Stack & Tools:</h3>
+<p align="left">
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" title="Java"/></a>
+  <a href="https://spring.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40" title="Spring Boot"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" title="TypeScript"/></a>
+  <a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40" title="React"/></a>
+  <a href="https://angular.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="angular" width="40" height="40" title="Angular"/></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" title="Python"/></a>
+  <a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" title="C++"/></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" title="PostgreSQL"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" title="Docker"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" title="Git"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40" title="HTML5"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40" title="CSS3"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40" title="Tailwind CSS"/></a>
+  <a href="https://vite.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="vite" width="40" height="40" title="Vite"/></a>
+</p>
 
-<div align="center">
+<h3 align="left">Featured Projects:</h3>
 
-# NingJjwo
+- **[Dreamcatcher API](https://github.com/NingJjwo/dreamcatcher-api)** — Spring Boot REST API serving the Dreamcatcher group's members, albums and songs
+- **[Dreamcatcher Docs](https://github.com/NingJjwo/dreamcatcher-docs-app)** — React documentation frontend for the API · [Live](https://dreamcatcher-docs-app.vercel.app)
+- **[chat-RMI](https://github.com/NingJjwo/chat-RMI)** — remote chat experiment built with Java RMI
+- **[odysseybot](https://github.com/NingJjwo/odysseybot)** — Discord bot that posts NASA's picture of the day
+- **[JapanWeb](https://github.com/NingJjwo/JapanWeb)** — a page to learn a few things about Japan
 
-### ようこそ | Welcome | Bienvenido
+<h3 align="left">Thesis — Servicio Social:</h3>
+<p align="left">
+  Social-service management system for Universidad Mariana, split into a Spring Boot backend and an Angular microfrontend.
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 21"/>
+  <img src="https://img.shields.io/badge/Spring_Boot_4-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot 4"/>
+  <img src="https://img.shields.io/badge/Angular_21-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular 21"/>
+  <img src="https://img.shields.io/badge/Nx-143055?style=for-the-badge&logo=nx&logoColor=white" alt="Nx"/>
+  <img src="https://img.shields.io/badge/Keycloak-000000?style=for-the-badge&logo=keycloak&logoColor=white" alt="Keycloak"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="WebSocket"/>
+</p>
 
-Computer Science student · backend developer
-
-_Changwon, South Korea_
-
-</div>
-
-## About
-
-Computer science student focused on backend services and web frontends. I build REST APIs with Java and Spring Boot, and single-page apps with React, Angular and TypeScript. Currently working on a Spring Boot API for the K-pop group Dreamcatcher, its React documentation portal, and a university thesis project for social-service management.
-
-## Tech Stack
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Keycloak](https://img.shields.io/badge/Keycloak-000000?style=for-the-badge&logo=keycloak&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-</div>
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="180" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=NingJjwo&show_icons=true&hide_title=true&hide_rank=true&bg_color=0b0b10&title_color=e5c158&text_color=f1eff7&icon_color=d11a38&ring_color=d11a38&border_color=2a2530" />
-
-<img height="180" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=NingJjwo&layout=compact&langs_count=6&hide_title=true&bg_color=0b0b10&title_color=e5c158&text_color=f1eff7&border_color=2a2530" />
-
-</div>
-
-## Featured Projects
-
-### [Dreamcatcher API](https://github.com/NingJjwo/dreamcatcher-api)
-
-Spring Boot REST API serving data about the K-pop group Dreamcatcher — members, albums and songs.
-
-`Java` `Spring Boot` `PostgreSQL` `SpringDoc OpenAPI`
-
-### [Dreamcatcher Docs](https://github.com/NingJjwo/dreamcatcher-docs-app)
-
-React documentation frontend for the Dreamcatcher API. · [Live](https://dreamcatcher-docs-app.vercel.app)
-
-`TypeScript` `React` `Tailwind CSS` `Vite`
-
-### [chat-RMI](https://github.com/NingJjwo/chat-RMI)
-
-Remote chat experiment built with Java RMI.
-
-### [odysseybot](https://github.com/NingJjwo/odysseybot)
-
-Discord bot that posts NASA's picture of the day.
-
-### [JapanWeb](https://github.com/NingJjwo/JapanWeb)
-
-A page to learn a few things about Japan.
-
-## Thesis — Servicio Social
-
-Social-service management system for Universidad Mariana, split into a Spring Boot backend and an Angular microfrontend.
-
-<div align="center">
-
-![Java 21](https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot 4](https://img.shields.io/badge/Spring_Boot_4-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Angular 21](https://img.shields.io/badge/Angular_21-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Nx](https://img.shields.io/badge/Nx-143055?style=for-the-badge&logo=nx&logoColor=white)
-![Keycloak](https://img.shields.io/badge/Keycloak-000000?style=for-the-badge&logo=keycloak&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-
-</div>
-
----
-
-<div align="center"><sub>built with caffeine and neon · est. 2049</sub></div>
+<h3 align="left">GitHub Stats:</h3>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NingJjwo&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Languages"/>
+</p>
