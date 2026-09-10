@@ -1,7 +1,6 @@
 <h1 align="center">ようこそ | Welcome | Bienvenido</h1>
 <h3 align="center">Computer Science Student · Backend & Web Developer · Changwon, South Korea</h3>
 
-- Currently building: a **Spring Boot REST API** for the K-pop group Dreamcatcher, its **React** docs portal, and a **thesis** project (social-service management) with an **Angular (Nx)** microfrontend
 - Currently learning: **microfrontends, OAuth2/Keycloak, Spring Boot 4, system design**
 - Ask me about: **Java & Spring Boot, API design, React, Angular, TypeScript, PostgreSQL, RMI, Discord bots**
 - Fun fact: the Dreamcatcher API + docs is a fan project I built from scratch
@@ -23,14 +22,6 @@
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40" title="Tailwind CSS"/></a>
   <a href="https://vite.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="vite" width="40" height="40" title="Vite"/></a>
 </p>
-
-<h3 align="left">Featured Projects:</h3>
-
-- **[Dreamcatcher API](https://github.com/NingJjwo/dreamcatcher-api)** — Spring Boot REST API serving the Dreamcatcher group's members, albums and songs
-- **[Dreamcatcher Docs](https://github.com/NingJjwo/dreamcatcher-docs-app)** — React documentation frontend for the API · [Live](https://dreamcatcher-docs-app.vercel.app)
-- **[chat-RMI](https://github.com/NingJjwo/chat-RMI)** — remote chat experiment built with Java RMI
-- **[odysseybot](https://github.com/NingJjwo/odysseybot)** — Discord bot that posts NASA's picture of the day
-- **[JapanWeb](https://github.com/NingJjwo/JapanWeb)** — a page to learn a few things about Japan
 
 <h3 align="left">Thesis — Servicio Social:</h3>
 <p align="left">
