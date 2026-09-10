@@ -23,20 +23,6 @@
   <a href="https://vite.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="vite" width="40" height="40" title="Vite"/></a>
 </p>
 
-<h3 align="left">Thesis — Servicio Social:</h3>
-<p align="left">
-  Social-service management system for Universidad Mariana, split into a Spring Boot backend and an Angular microfrontend.
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 21"/>
-  <img src="https://img.shields.io/badge/Spring_Boot_4-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot 4"/>
-  <img src="https://img.shields.io/badge/Angular_21-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular 21"/>
-  <img src="https://img.shields.io/badge/Nx-143055?style=for-the-badge&logo=nx&logoColor=white" alt="Nx"/>
-  <img src="https://img.shields.io/badge/Keycloak-000000?style=for-the-badge&logo=keycloak&logoColor=white" alt="Keycloak"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="WebSocket"/>
-</p>
-
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NingJjwo&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Languages"/>
