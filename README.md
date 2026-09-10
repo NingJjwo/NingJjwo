@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Blade Runner 2049 pixel art" />
+</p>
+
 <h1 align="center">ようこそ | Welcome | Bienvenido</h1>
 <h3 align="center">Computer Science Student · Backend & Web Developer · Changwon, South Korea</h3>
 
