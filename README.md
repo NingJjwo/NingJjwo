@@ -6,7 +6,7 @@
 <h3 align="center">Computer Science Student · Backend & Web Developer · Changwon, South Korea</h3>
 
 <p align="center">
-  <img src="drive_in.png" alt="Retrowave drive-in pixel art" />
+  <img src="blade.png" alt="Blade Runner cityscape pixel art" />
 </p>
 
 - Currently learning: **microfrontends, OAuth2/Keycloak, Spring Boot 4, system design**
