@@ -5,19 +5,13 @@
 <h1 align="center">ようこそ | Welcome | Bienvenido</h1>
 <h3 align="center">Computer Science Student · Backend & Web Developer · Changwon, South Korea</h3>
 
-<pre align="center">
-████████    ██████████  ██████████    ██████    ██      ██  ██      ██  ██████████  ██      ██  ████████                ██      ██  ██████████                ██████                ██      ██    ██████    ██      ██  ██████████  ██████████
-██      ██  ██          ██          ██      ██  ████  ████  ████  ████  ██          ████    ██  ██      ██              ████  ████  ██                      ██      ██              ████  ████  ██      ██  ██      ██      ██      ██
-██      ██  ██          ██          ██      ██  ██  ██  ██  ██  ██  ██  ██          ██  ██  ██  ██      ██              ██  ██  ██  ██                      ██      ██              ██  ██  ██  ██      ██  ██      ██      ██      ██
-████████    ████████    ██          ██      ██  ██  ██  ██  ██  ██  ██  ████████    ██    ██    ██      ██              ██  ██  ██  ████████                ██████████              ██  ██  ██  ██      ██  ██      ██      ██      ████████
-██  ██      ██          ██          ██      ██  ██      ██  ██      ██  ██          ██      ██  ██      ██              ██      ██  ██                      ██      ██              ██      ██  ██      ██  ██      ██      ██      ██
-██    ██    ██          ██          ██      ██  ██      ██  ██      ██  ██          ██      ██  ██      ██              ██      ██  ██                      ██      ██              ██      ██  ██      ██    ██  ██        ██      ██
-██      ██  ██████████  ██████████    ██████    ██      ██  ██      ██  ██████████  ██      ██  ████████                ██      ██  ██████████              ██      ██              ██      ██    ██████        ██      ██████████  ██████████
-</pre>
+<p align="center">
+  <img src="drive_in.png" alt="Retrowave drive-in pixel art" />
+</p>
 
 - Currently learning: **microfrontends, OAuth2/Keycloak, Spring Boot 4, system design**
 - Ask me about: **Java & Spring Boot, API design, React, Angular, TypeScript, PostgreSQL, RMI, Discord bots**
-- Fun fact: I got Letterboxd — [recommend me a movie](https://letterboxd.com/NingJjwo/) and I'll add it to the watchlist. My whole film journal lives at [letterboxd.com/NingJjwo](https://letterboxd.com/NingJjwo/).
+- Fun fact: I love watching movies — recommend me one at [my Letterboxd](https://letterboxd.com/NingJjwo/).
 
 <h3 align="left">Core Stack & Tools:</h3>
 <p align="left">
