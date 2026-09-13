@@ -5,13 +5,13 @@
 <h1 align="center">ようこそ | Welcome | Bienvenido</h1>
 <h3 align="center">Computer Science Student · Backend & Web Developer · Changwon, South Korea</h3>
 
-<p align="center">
-  <img src="blade.png" alt="Blade Runner cityscape pixel art" />
-</p>
-
 - Currently learning: **microfrontends, OAuth2/Keycloak, Spring Boot 4, system design**
 - Ask me about: **Java & Spring Boot, API design, React, Angular, TypeScript, PostgreSQL, RMI, Discord bots**
 - Fun fact: I love watching movies — recommend me one at [my Letterboxd](https://letterboxd.com/NingJjwo/).
+
+<p align="center">
+  <img src="blade.png" alt="Blade Runner cityscape pixel art" />
+</p>
 
 <h3 align="left">Core Stack & Tools:</h3>
 <p align="left">
